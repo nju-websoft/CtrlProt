@@ -109,6 +109,16 @@ eval_classifier provides CLS-score, TM-score, rmsd and pLDDT.
 python eval_classifier.py
 ```
 
+## Citation
+```
+@inproceedings{CtrlProt,
+  title={Controllable Protein Sequence Generation with LLM Preference Optimization},
+  author={Liu, Xiangyu and Liu, Yi and Chen, Silei and Hu, Wei},
+  booktitle={AAAI},
+  year={2025}
+}
+```
+
 
 
 
